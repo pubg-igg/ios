@@ -1,0 +1,22 @@
+Package: idv.aqua.gameover
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/Pumpkin.deb
+Size: 376920
+MD5sum: c0ded94f057dde53808d77ec62a24a80
+SHA1: 24ae22d38f7562a482794107e928fca598b647ff
+SHA256: 8b56a9c91653b855857cb397b1e1d666f745fae4b0a6f7ebe410dbd8c7a56061
+Section: Utilities
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: 帅帅小分队修改版igg
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: iGG伪装版
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
