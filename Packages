@@ -13,6 +13,126 @@ Description: 完美透视，天黑，线条透视，滑条除草，修复A13设�
 Author: 梦三大牛
 Name: 2020🐭免费无验证
 
+Package: DP.123
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/灯泡 双服 自行解决防风.deb
+Size: 429106
+MD5sum: 974361d97c0362d05423269907257bbc
+SHA1: 93eae65b5f9f3a9c79de6df3580fa793c3ad0508
+SHA256: 6ed69d60c92c42431799389edb06662f117915af24e8d65e96adc92e6e333def
+Homepage: https://apps.apple.com/cn/app
+Description: ：多功能恰鸡插件 防风自理
+Author: cinian
+Name: 灯泡
+
+Package: ShadowTrackerExtra
+Version: 0.17.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/0330懒人插件.deb
+Size: 102628
+MD5sum: 0ee6c31b7e41a37d7081712cc600a319
+SHA1: b552c25d350726093010b4807a3c391961d930db
+SHA256: 794b4accebc080565033e9af4a4249304ff7c778d23a41e8c52517e795b73294
+Section: System
+Priority: optional
+Description: 国服&台服&国际服通用
+Author: 水哥
+Name: 懒人插件公开版
+
+Package: com.liupi.dy
+Version: 9.9
+Architecture: iphoneos-arm
+Maintainer: 吖
+Depends: mobilesubstrate
+Filename: ./debs/好东西，可破解猎人绘制，猎人插件自己找.deb
+Size: 81862
+MD5sum: b10ed5c377b46386ed287e09d7af95f2
+SHA1: 6510f7d33f85ba26c0a5140fd7207d1681aa78e3
+SHA256: 759776fd06d3b71cc65b33cfb934c62c0a95ca5a9b1fb03a56df408e846c0ece
+Section: Tweaks
+Author: 吖
+Depiction: h
+Name: 好东西，你值得拥有
+
+Package: com.pukgfunne.com
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LT
+Installed-Size: 1064
+Depends: mobilesubstrate
+Filename: ./debs/妲己-射线追踪(1).deb
+Size: 9533218
+MD5sum: 2f9d6c8c67904fe8f5218ce45ae02d84
+SHA1: cb0f95422ff6581ed0581dfcbb2d6e282dea400b
+SHA256: ff359b8d66b65fc2acd43b038c132f658097427d0d4b4693311c45aafa7fb46c
+Section: hack
+Description: 说明：开启防封按钮后队友最近记录没有和你组队记录(不可安装屏蔽越狱,必须卸载其它游戏插件不可和其它插件共同使用）
+Author: 妲己
+Name: 妲己
+
+Package: com.pukgfunne.com
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LT
+Installed-Size: 1064
+Depends: mobilesubstrate
+Filename: ./debs/妲己-国服火力全开-免费.deb
+Size: 1188948
+MD5sum: 4e3e6248fee3d930524d1d3ceff925f5
+SHA1: d4f431b7c99f7447c6beabce2837f3464f6b1c17
+SHA256: 444c716ca6ae12ddb7336e4ceb2110fabb819fc4f18d0c55c3baf066388e964d
+Section: hack
+Description: 说明：开启防封按钮后队友最近记录没有和你组队记录(不可安装屏蔽越狱,必须卸载其它游戏插件不可和其它插件共同使用）
+Author: 妲己
+Name: 妲己
+
+Package: com.pukgsky.lesevan
+Version: 0.17.0
+Architecture: iphoneos-arm
+Maintainer: LesEvan
+Depends: mobilesubstrate
+Filename: ./debs/0330蓝天.deb
+Size: 1321766
+MD5sum: 931cd8c940dc8312a828d3a006ad0f8b
+SHA1: e1b3d1960d3d742cd98cecb997fe5a56b357cb07
+SHA256: 572bd3853fab9d90c1f6f543dcda8addb26b96b931a8684455e91112e8b2de15
+Section: hack
+Description: 国服&台服&国际服通用
+Author: LesEvan
+Name: 蓝天
+
+Package: com.sss.hz
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0)
+Filename: ./debs/免费人物骨骼枪械载具绘制追踪.deb
+Size: 821198
+MD5sum: 3dfd4ebaea6a7fcc6e32b60ec9625bd6
+SHA1: 43785e97d3fd0f0ca80008e502c367a4e07cc4d7
+SHA256: e559ec975650c007d7593f2a1cb944ef3fde355be101f7cfd6b9e6d600529f38
+Section: System
+Priority: optional
+Name: sss
+
+Package: com.zlwl.aipojie
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 隔壁王大爷
+Installed-Size: 862
+Depends: mobilesubstrate
+Filename: ./debs/爱破解.deb
+Size: 1546128
+MD5sum: 829f47a1bd7604e1ee1c175211c9ee0b
+SHA1: 7e7d45a2fc869f22af2356b75d3e756e8eb97b90
+SHA256: ad415b2838bfb4f61c34398e8d8303ffd41b7416afb09e6b5facc6bd06ab4b22
+Section: hack
+Description: Pubg Hack
+Author: 隔壁王大爷
+Name: Hack
+
 Package: idv.aqua.gameover
 Version: 12.0.4
 Architecture: iphoneos-arm
@@ -34,4 +154,20 @@ Depiction: http://iggdjj.xyz/igg.html
 Dev: aqua
 Name: iGG伪装版
 Sponsor: 帅帅小分队 <452626996@qq.com>
+
+Package: naicha
+Version: 1.9.10
+Architecture: iphoneos-arm
+Maintainer: naicha
+Installed-Size: 660
+Depends: mobilesubstrate
+Filename: ./debs/国服泰日天(优化自瞄 增加上色).deb
+Size: 386054
+MD5sum: 40f61e0514d292588ebc2d8e14b576fb
+SHA1: ede14897a4ebe703b025ae0881d1b0e14a9350d9
+SHA256: 39b23d4b101d75e947c33a2c5a57ac99b77c89c1e2838a791a26712e9514fdef
+Section: Tweaks
+Description: 国服辅助防封自备，上色无后双防瞬击自瞄加速秒落飞车除雾除草
+Author: naicha
+Name: 泰日天
 
