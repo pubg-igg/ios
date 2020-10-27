@@ -155,6 +155,28 @@ Dev: aqua
 Name: iGG伪装版
 Sponsor: 帅帅小分队 <452626996@qq.com>
 
+Package: idv.aqua.gameover
+Version: 3.3
+Architecture: iphoneos-arm
+Maintainer: 帅帅小分队<igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/sss绘制3.3.deb
+Size: 660540
+MD5sum: eda0e209c53d2cff7bd84b9f0211ec06
+SHA1: 37abb074995105818c21e098861aa5f4df23b0d6
+SHA256: 67d07486aec6606eef77a320d81993696694b5e43d2cfb5a45648daea0ab0d5f
+Section: Utilities
+Priority: optional
+Homepage: http://iggdjj.xyz/igg.html
+Description: 和平追踪绘制测试版，小按钮为开启追踪，大按钮开启追踪增强(距离越近范围越大)
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: 帅帅小分队 <452626996@qq.com>
+Depiction: http://iggdjj.xyz/igg.html
+Dev: aqua
+Name: sss绘制3.3
+Sponsor: 帅帅小分队 <452626996@qq.com>
+
 Package: naicha
 Version: 1.9.10
 Architecture: iphoneos-arm
