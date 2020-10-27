@@ -42,21 +42,6 @@ Description: 国服&台服&国际服通用
 Author: 水哥
 Name: 懒人插件公开版
 
-Package: com.liupi.dy
-Version: 9.9
-Architecture: iphoneos-arm
-Maintainer: 吖
-Depends: mobilesubstrate
-Filename: ./debs/好东西，可破解猎人绘制，猎人插件自己找.deb
-Size: 81862
-MD5sum: b10ed5c377b46386ed287e09d7af95f2
-SHA1: 6510f7d33f85ba26c0a5140fd7207d1681aa78e3
-SHA256: 759776fd06d3b71cc65b33cfb934c62c0a95ca5a9b1fb03a56df408e846c0ece
-Section: Tweaks
-Author: 吖
-Depiction: h
-Name: 好东西，你值得拥有
-
 Package: com.pukgfunne.com
 Version: 1.0
 Architecture: iphoneos-arm
@@ -117,6 +102,24 @@ Section: System
 Priority: optional
 Name: sss
 
+Package: com.sss.hz
+Version: 3.3
+Architecture: iphoneos-arm
+Maintainer: SSS
+Depends: firmware (>= 8.0)
+Filename: ./debs/sss.deb
+Size: 660832
+MD5sum: 64e925ea1b8a972172fcc7763676c921
+SHA1: bd416f46bdc1539fb714a35a733d58ab6935a23a
+SHA256: ffc080477305bf642b5eb85066a6457037b3759da58e2e79ebe21ee6045ec0f6
+Section: System
+Priority: optional
+Homepage: http://iggdjj.xyz/igg.html
+Description: 和平追踪绘制测试版，小按钮为开启追踪，大按钮开启追踪增强(距离越近范围越大)
+Author: SSS
+Depiction: http://iggdjj.xyz/igg.html
+Name: sss绘制10.27更新
+
 Package: com.zlwl.aipojie
 Version: 1.0
 Architecture: iphoneos-arm
@@ -153,28 +156,6 @@ Author: 帅帅小分队 <452626996@qq.com>
 Depiction: http://iggdjj.xyz/igg.html
 Dev: aqua
 Name: iGG伪装版
-Sponsor: 帅帅小分队 <452626996@qq.com>
-
-Package: idv.aqua.gameover
-Version: 3.3
-Architecture: iphoneos-arm
-Maintainer: 帅帅小分队<igameguardian@gmail.com>
-Installed-Size: 1372
-Depends: firmware (>= 8.0)
-Filename: ./debs/sss绘制3.3.deb
-Size: 660540
-MD5sum: eda0e209c53d2cff7bd84b9f0211ec06
-SHA1: 37abb074995105818c21e098861aa5f4df23b0d6
-SHA256: 67d07486aec6606eef77a320d81993696694b5e43d2cfb5a45648daea0ab0d5f
-Section: Utilities
-Priority: optional
-Homepage: http://iggdjj.xyz/igg.html
-Description: 和平追踪绘制测试版，小按钮为开启追踪，大按钮开启追踪增强(距离越近范围越大)
-Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
-Author: 帅帅小分队 <452626996@qq.com>
-Depiction: http://iggdjj.xyz/igg.html
-Dev: aqua
-Name: sss绘制3.3
 Sponsor: 帅帅小分队 <452626996@qq.com>
 
 Package: naicha
