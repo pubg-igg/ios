@@ -142,18 +142,18 @@ Architecture: iphoneos-arm
 Maintainer: 帅帅小分队<igameguardian@gmail.com>
 Installed-Size: 1372
 Depends: firmware (>= 8.0)
-Filename: ./debs/igg.deb
-Size: 1842556
-MD5sum: 9c32d71ffd1c3d8298dfce7fae74b6c4
-SHA1: 9ca759f097bebbdf89b42def171e2b052754e1f3
-SHA256: c12bb153dc1b5bc17377f941b7b8bfd20f731d4dc9af32ad297639d6a2fea0b8
+Filename: ./debs/igg 2.deb
+Size: 1842776
+MD5sum: 158257680cb40d9daa61693106b1d956
+SHA1: 3d684c4d42050b555c9a5d738430108fa19b8d7d
+SHA256: e5f4ee554b84bc7708287fc4da156a264542143c7c77afcd1cdbe26fb0f6a3ae
 Section: Utilities
 Priority: optional
-Homepage: http://iggdjj.xyz/igg.html
+Homepage: http://faka.info/product
 Description: 帅帅小分队修改版igg
 Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
 Author: 帅帅小分队 <452626996@qq.com>
-Depiction: http://iggdjj.xyz/igg.html
+Depiction: http://faka.info/product
 Dev: aqua
 Name: iGG伪装版
 Sponsor: 帅帅小分队 <452626996@qq.com>
